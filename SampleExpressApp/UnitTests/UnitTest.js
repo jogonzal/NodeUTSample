@@ -1,5 +1,5 @@
 ﻿var assert = require('assert');
-var Adding = require('./utilities/adding.js');
+var Adding = require('./../utilities/adding.js');
 
 exports['Test 1'] = function () {
     assert.ok(true, "This shouldn't fail");
