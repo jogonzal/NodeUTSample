@@ -1,0 +1,2 @@
+C:\Users\jogonzal\Documents\GitHub\NodeUTSample\SampleExpressApp\obj\Debug\SampleExpressApp.njsprojResolveAssemblyReference.cache
+C:\Users\jogonzal\Documents\GitHub\NodeUTSample\SampleExpressApp\bin\Microsoft.NodejsTools.WebRole.dll

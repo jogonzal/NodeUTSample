@@ -34,6 +34,11 @@
     <Compile Include="routes\index.js" />
     <Compile Include="routes\users.js" />
     <Compile Include="bin\www" />
+    <Compile Include="UnitTest.js">
+      <SubType>Code</SubType>
+      <TestFramework>ExportRunner</TestFramework>
+    </Compile>
+    <Compile Include="Utilities\Adding.js" />
     <Content Include="package.json" />
     <Content Include="public\stylesheets\style.styl" />
     <Content Include="README.md" />
@@ -43,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\" />
+    <Folder Include="Utilities\" />
     <Folder Include="public\" />
     <Folder Include="public\images\" />
     <Folder Include="public\javascripts\" />
